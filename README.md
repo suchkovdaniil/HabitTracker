@@ -27,7 +27,7 @@
 ```bash
  git clone https://github.com/suchkovdaniil/HabitTracker.git
 ```
-2. 📁 **Navigate to the 'IstoriiBot' folder and then to 'src':**  
+2. 📁 **Navigate to the 'HabitTracker' folder:**  
 ```bash
  cd HabitTracker
 ```
